@@ -1,4 +1,4 @@
-package com.beyondli.cliengone;
+package com.beyondli.clientone;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
